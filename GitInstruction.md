@@ -8,6 +8,9 @@
 
 ## Установка git и VSCode на ваш ПК.
 
+1. git config --global user.name "Ваше имя"
+2. git config -- global user.email "Ваша почта"
+
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
