@@ -18,6 +18,9 @@
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 
+1. git config **--global user.name "username"**
+2. git config **--global user.email "useremail"**
+
 ## Создание и базовая работа с локальным репозиторием.
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
