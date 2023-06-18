@@ -21,12 +21,18 @@ Alternatively, you can also download a Zip archive, extract it and run Code from
 Tip: Setup will add Visual Studio Code to your %PATH%, so from the console you can type 'code .' to open VS Code on that folder. You will need to restart your console after the installation for the change to the %PATH% environmental variable to take effect.
 
 ### Установка git на ваш ПК
-
+В терминале выполняем команду git version - она выводит версию программы git; если выдает ошибку - git не установлен
+Загружаем последнюю версию Git с сайта <http://git-scm.com/>, устанавливаем с настройками по умолчанию (симулятор нажатия кнопки next)
 #### Первая настройка git
+
 Необходимо ввести команды:
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 
+Чтобы проверить, запомнил ли Git наши данные, можно ввести команду git config --list
+
+## Инициализация Git
+Чтобы инициализировать git, нужно в ПАПКЕ С ПРОЕКТОМ ввести команду git init
 ## Создание и базовая работа с локальным репозиторием.
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
