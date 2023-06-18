@@ -40,6 +40,17 @@ git config --global user.email johndoe@example.com
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 ### Базовая работа с ветками в git.
+1. *git branch* - shows the list of all existing branches and indicate what branch you are on.
+
+   2. *git branch __branch_name__* - creates the new branch.
+
+      * _git branch -d **branch_name**__ - delete branch _**branch_name**_.
+  
+   3. *git checkout __branch_name__* - moving from the current branch to the branch *__branch_name__*.
+
+   4. *git merge __branch_name__* - merging branches; branch *__branch_name__* join (flows in) current branch.
+
+   ## Working with remote repositories
 
 ## Работа с удаленными репозиториями.
 
