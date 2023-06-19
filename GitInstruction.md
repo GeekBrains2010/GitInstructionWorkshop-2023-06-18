@@ -22,6 +22,10 @@ Tip: Setup will add Visual Studio Code to your %PATH%, so from the console you c
 
 ### Установка git на ваш ПК
 
+* Скачайте дистрибутив
+
+* Запустите исполняемый файл
+
 #### Первая настройка git
 Необходимо ввести команды:
 git config --global user.name "John Doe"
