@@ -22,6 +22,9 @@ Tip: Setup will add Visual Studio Code to your %PATH%, so from the console you c
 
 ### Установка git на ваш ПК
 
+Необходимо пройти по ссылке: [Git](https://git-scm.com/) выбрать установку для Windows или macOS. Начать загрузку.
+Профодим на официальном сайте по ссылке, установи программу
+
 #### Первая настройка git
 Необходимо ввести команды:
 git config --global user.name "John Doe"
